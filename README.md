@@ -6,7 +6,7 @@ Framework: Qt
 
 Link: https://github.com/codeman101/Capstone 
 
-Description: This is my Capstone project I that was completed at my University. The Idea for the project is based upon my interest in computer security.  Essentially it's a trojan I created with the Qt framework. When the user starts the program it asks the user it can install two programs, CCleaner and Defragger. It then popus up with a window consisting of two buttons. One says "Run CCleaner" and the other says "Run Defraggler" When user clicks on either button it runs the repective program but also puts a C++ executable in Startup Porgrams folder.  Upon reboot the executable calls itself and enters an infinite loop allocating memory infinitly. The Fix is to boot in safe mode and delete the program from the startup programs folder. 
+Description: This is my Capstone project I that was completed at my University. The Idea for the project is based upon my interest in computer security.  Essentially it's a trojan I created with the Qt framework. When the user starts the program it asks the user it can install two programs, CCleaner and Defragger. It then popus up with a window consisting of two buttons. One says "Run CCleaner" and the other says "Run Defraggler" When user clicks on either button it runs the repective program but also puts a C++ executable in Startup Porgrams folder.  Upon reboot the executable calls itself and enters an infinite loop allocating memory infinitly. The fix is to boot in safe mode and delete the program from the startup programs folder. 
 
 # SiteChecker
 
