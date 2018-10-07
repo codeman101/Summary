@@ -10,7 +10,7 @@ Description: This is my Capstone project I that was completed at my University. 
 
 # SiteChecker
 
-Language:Python
+Language: Python
 
 API: DuckDuckGo and VirusTotal
 
