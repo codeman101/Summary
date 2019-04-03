@@ -29,7 +29,7 @@ Link: https://github.com/codeman101/SiteChecker-User-Input-Version
 
 Description: This is the same as the previous except instead of using a generator for the search queries it asks the user for a search query.
 
-# ImageScrapper
+# ImageScraper
 
 Language: Python
 
