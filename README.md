@@ -68,3 +68,11 @@ Language: C++
 Link: https://github.com/codeman101/musicFilesApp 
 
 Description: This a program I made for my Dad. It asks the user for their username so it can get to their user directory and asks what iTunes playlist they want the program to work with. It then goes to the iTunes generated XML file to get the file paths of the files in playlist and copies the files to a folder on the users desktop in order to easily burn a CD or and ISO file.
+
+# LinuxScripts
+
+Language: Python
+
+Link: https://github.com/codeman101/LinuxScripts
+
+Description: These are a few scripts that automate the process of doing certain configurations for a Linux environment.
